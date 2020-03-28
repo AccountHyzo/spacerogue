@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Rougie.unity
+- path: Assets/TestSpace.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
